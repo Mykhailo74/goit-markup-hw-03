@@ -46,7 +46,9 @@ ol {
 
 /* Header */
 
-
+.header {
+    padding-top: 25.5px;
+}
 
 .logo {
     font-family: 'Raleway', sans-serif;
@@ -105,6 +107,7 @@ ol {
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--title-color-two);
+    margin-bottom: 48px;
 }
 
 .hero-button {
@@ -132,6 +135,7 @@ ol {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color-one);
+    margin-bottom: 8px;
 }
 
 .advantage-text {
@@ -150,6 +154,7 @@ ol {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--title-color-one);
+    margin-bottom: 72px;
 }
 
 /* Team */
@@ -166,6 +171,7 @@ ol {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--title-color-one);
+    margin-bottom: 72px;
 }
 
 .team-item {
@@ -178,6 +184,8 @@ ol {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color-one);
+    margin-top: 32px;
+    margin-bottom: 8px;
 }
 
 .team-text {
