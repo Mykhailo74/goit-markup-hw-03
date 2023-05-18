@@ -141,7 +141,6 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color-one);
-    margin-top: 120px;
     margin-bottom: 8px;
 }
 
@@ -161,7 +160,6 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--title-color-one);
-    margin-top: 120px;
     margin-bottom: 72px;
 }
 
@@ -253,7 +251,6 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
-    margin-top: 120px;
 }
 
 .footer-text {
