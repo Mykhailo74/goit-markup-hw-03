@@ -143,7 +143,9 @@ img {
     letter-spacing: 0.02em;
     color: var(--title-color-two);
     margin-bottom: 48px;
-    padding: 188px 472px 292px 472px;
+    max-width: 496px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .hero-button {
