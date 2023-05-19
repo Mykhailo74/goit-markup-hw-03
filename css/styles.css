@@ -69,7 +69,6 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    padding-left: 156px;
 }
 
 .logo-studio {
@@ -91,7 +90,8 @@ img {
 .contacts-list {
     display: flex;
     gap: 40px;
-    padding-right: 156px;
+
+
 }
 
 .contacts-item {
