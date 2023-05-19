@@ -51,9 +51,8 @@ img {
 
 /* Header */
 
-.header {
-    padding-top: 25.5px;
-}
+.header {}
+
 
 .logo {
     font-family: 'Raleway', sans-serif;
@@ -63,10 +62,15 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    padding: 25.5px 1169px 25.5px 156px;
 }
 
 .logo-studio {
     color: var(--title-color-one);
+}
+
+.page-item {
+    display: flex;
 }
 
 .page-link {
