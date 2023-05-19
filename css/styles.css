@@ -83,13 +83,16 @@ img {
     display: flex;
 }
 
+.contacts {
+    margin-left: auto;
+}
+
 .contacts-list {
     display: flex;
 }
 
 .contacts-item {
     display: flex;
-    align-items: center;
 }
 
 .page-link {
