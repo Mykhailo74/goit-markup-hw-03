@@ -256,9 +256,10 @@ img {
 
 .name {
     display: block;
-    padding top: 32px;
-    padding-bottom: 32px;
-    align-items: center;
+    padding: 16px 32px;
+    max-width: 232px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .team-title {
@@ -267,6 +268,8 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color-one);
+    border-radius: 0px 0px 4px 4px;
+    text-align: center;
 }
 
 .team-text {
@@ -274,6 +277,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text-color-one);
+    text-align: center;
 }
 
 /* Portfolio */
