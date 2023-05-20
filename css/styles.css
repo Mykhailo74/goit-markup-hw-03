@@ -334,6 +334,14 @@ img {
     padding-top: 100px 0px;
 }
 
+.container {
+    width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 .logo link {
     display: inline-block;
     margin-bottom: 16px;
@@ -344,7 +352,6 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    text text-decoration: none;
 }
 
 .footer-text {
