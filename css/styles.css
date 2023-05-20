@@ -331,11 +331,20 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
-    position: absolute;
-    width: 1440px;
-    height: 312px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 100px 0px;
+}
+
+.logo link {
+    display: inline-block;
+    margin-bottom: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text text-decoration: none;
 }
 
 .footer-text {
@@ -349,12 +358,4 @@ img {
 
 .logo-studio-footer {
     color: var(--text-color-two);
-}
-
-.footer-container {
-    display: block;
-    width: 264px;
-    height: 112px;
-    margin-left: 156px;
-    margin-right: 1020px;
 }
