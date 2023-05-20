@@ -331,7 +331,6 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
-    padding-top: 100px 0px;
     width: 1440px;
     height: 312px;
     left: 0px;
@@ -341,7 +340,6 @@ img {
 }
 
 .container {
-    margin-left: 156;
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
