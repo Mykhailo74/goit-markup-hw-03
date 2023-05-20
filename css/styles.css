@@ -286,6 +286,10 @@ img {
 
 /* Buttons */
 
+.main-section {
+    padding-bottom: 120px;
+}
+
 .button-list {
     margin-top: 96px;
     margin-bottom: 72px;
@@ -324,6 +328,15 @@ img {
 
 /* Projects */
 
+.bar-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    text-align: center;
+    row-gap: 48px;
+
+}
+
 .bar-title {
     font-weight: 500;
     font-size: 20px;
@@ -332,6 +345,7 @@ img {
     color: var(--title-color-one);
     margin-top: 32px;
     margin-bottom: 8px;
+    text-align: center;
 }
 
 .bar-text {
@@ -339,6 +353,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text-color-one);
+    text-align: center;
 }
 
 /* Footer */
