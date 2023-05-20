@@ -51,6 +51,10 @@ img {
 
 /* Header */
 
+.header {
+    border-bottom: 1px solid #E7E9FC;
+}
+
 .header-container {
     display: flex;
     align-items: center;
@@ -90,8 +94,6 @@ img {
 .contacts-list {
     display: flex;
     gap: 40px;
-
-
 }
 
 .contacts-item {
