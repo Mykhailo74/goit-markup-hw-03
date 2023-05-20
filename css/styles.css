@@ -331,6 +331,12 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
+    width: 1440px;
+    height: 312px;
+    width: 1440px;
+    height: 312px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .footer-text {
@@ -345,4 +351,10 @@ img {
     color: var(--text-color-two);
 }
 
-.footer-container {}
+.footer-container {
+    display: block;
+    width: 264px;
+    height: 112px;
+    margin-left: 156px;
+    margin-right: 1020px;
+}
