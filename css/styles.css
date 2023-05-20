@@ -231,6 +231,7 @@ img {
 
 .team-section {
     background-color: var(--background-color-two);
+    padding-bottom: 120px;
 }
 
 .team {
@@ -343,3 +344,5 @@ img {
 .logo-studio-footer {
     color: var(--text-color-two);
 }
+
+.footer-container {}
