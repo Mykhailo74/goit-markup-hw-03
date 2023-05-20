@@ -331,12 +331,10 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
-    width: 1440px;
-    height: 312px;
+
     left: 0px;
     top: 2280px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+
 }
 
 .container {
