@@ -207,6 +207,10 @@ img {
 
 /* Activities */
 
+.activities-section {
+    padding-bottom: 120px;
+}
+
 .activities {
     font-size: 36px;
     line-height: 1.11;
@@ -215,6 +219,12 @@ img {
     text-transform: capitalize;
     color: var(--title-color-one);
     margin-bottom: 72px;
+
+}
+
+.activities-list {
+    display: flex;
+    gap: 24px;
 }
 
 /* Team */
@@ -232,10 +242,23 @@ img {
     text-transform: capitalize;
     color: var(--title-color-one);
     margin-bottom: 72px;
+    padding-top: 120px;
+}
+
+.team-list {
+    display: flex;
+    gap: 24px;
 }
 
 .team-item {
     background-color: #ffffff;
+}
+
+.name {
+    display: block;
+    padding top: 32px;
+    padding-bottom: 32px;
+    align-items: center;
 }
 
 .team-title {
@@ -244,8 +267,6 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color-one);
-    margin-top: 32px;
-    margin-bottom: 8px;
 }
 
 .team-text {
