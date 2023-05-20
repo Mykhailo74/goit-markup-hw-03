@@ -331,8 +331,7 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
-    width: 1440px;
-    height: 312px;
+    position: absolute;
     width: 1440px;
     height: 312px;
     padding-top: 100px;
