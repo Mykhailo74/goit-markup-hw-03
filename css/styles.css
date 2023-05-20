@@ -331,17 +331,15 @@ img {
 
 .footer {
     background-color: var(--background-color-one);
-
-    left: 0px;
-    top: 2280px;
-
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .container {
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
-    width: 264px;
+
 }
 
 .logo link {
