@@ -82,8 +82,7 @@ img {
 .page-list {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding: 24px 0;
     margin-left: 76px;
 }
 
@@ -136,7 +135,7 @@ img {
 .hero {
     background-color: var(--background-color-one);
     padding-top: 188px;
-    padding-bottom: 292px;
+    padding-bottom: 188px;
 }
 
 .hero-title {
