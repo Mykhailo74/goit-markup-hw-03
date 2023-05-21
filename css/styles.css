@@ -76,7 +76,6 @@ img {
 }
 
 .logo-studio {
-    margin-right: 76px;
     color: var(--title-color-one);
 }
 
@@ -85,6 +84,7 @@ img {
     gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
+    margin-left: 76px;
 }
 
 .contacts {
