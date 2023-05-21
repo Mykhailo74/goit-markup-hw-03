@@ -58,7 +58,6 @@ img {
 .header-container {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 
 .header-navigation {
@@ -75,6 +74,8 @@ img {
     text-transform: uppercase;
     color: #4D5AE5;
     margin-right: 76px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .logo-studio {
