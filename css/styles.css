@@ -178,6 +178,10 @@ img {
 
 /* Advantages */
 
+.advantage-section {
+    padding: 120px 0;
+}
+
 .advantage-list {
     display: flex;
     gap: 24px;
@@ -194,7 +198,6 @@ img {
     letter-spacing: 0.02em;
     color: var(--title-color-one);
     margin-bottom: 8px;
-    padding-top: 120px;
 }
 
 .advantage-text {
@@ -203,7 +206,6 @@ img {
     letter-spacing: 0.02em;
     color: var(--text-color-one);
     max-width: 264px;
-    padding-bottom: 120px;
 }
 
 /* Activities */
